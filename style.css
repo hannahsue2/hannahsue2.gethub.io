@@ -9,6 +9,9 @@ h2 {
   margin-bottom:0;
   font-family:Impact, sans-serif;
 }
+h3 {
+  float:right;
+}
 p {
   color: gray;
   font-family:Impact, sans-serif;
