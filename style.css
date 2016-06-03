@@ -7,6 +7,7 @@ h1 {
 h2 {
   color: maroon;
   margin-bottom:0;
+  font-family:Impact, sans-serif;
 }
 p {
   color: gray;
@@ -14,6 +15,7 @@ p {
 }
 ul {
   color: teal;
+  font-family:Impact, sans-serif;
   }
 body {
   margin: 0 200px;
