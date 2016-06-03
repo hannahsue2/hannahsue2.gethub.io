@@ -1,5 +1,5 @@
 body {
-background-color: #ccffff;
+background-color: #D8D8D8;
 }
 h1 {
   color: teal;
@@ -19,11 +19,11 @@ h3 {
   margin: 0 0 10px 10px;
 }
 p {
-  color: gray;
+  color: black;
   font-family:Impact, sans-serif;
 }
 ul {
-  color: gray;
+  color: black;
   font-family:Impact, sans-serif;
   }
 body {
