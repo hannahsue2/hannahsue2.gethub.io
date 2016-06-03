@@ -10,7 +10,8 @@ h2 {
   font-family:Impact, sans-serif;
 }
 h3 {
-  float:right;
+  float: right;
+  margin: 0 0 10px 10px;
 }
 p {
   color: gray;
