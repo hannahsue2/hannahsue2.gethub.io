@@ -26,8 +26,7 @@ ul {
   color: black;
   font-family:Impact, sans-serif;
   }
-  
-  #date { margin-top: 10px;
+  .date { margin-top: 10px;
   }
 body {
   margin: 0 200px;
