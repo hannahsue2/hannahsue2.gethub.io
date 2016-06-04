@@ -4,9 +4,9 @@ background-color: #D8D8D8;
 img {
   float: right;
   margin-right: 20px;
-  -ms-transform: rotate(7deg); /* IE 9 */
-    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
-    transform: rotate(7deg);
+  -ms-transform: rotate(6deg); /* IE 9 */
+    -webkit-transform: rotate(6deg); /* Chrome, Safari, Opera */
+    transform: rotate(6deg);
    padding:4px;
    border:5px solid maroon;
    background-color: white;
