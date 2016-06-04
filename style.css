@@ -4,6 +4,9 @@ background-color: #D8D8D8;
 img {
   float: right;
   margin-right: 20px;
+  -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
 }
 h1 {
   color: teal;
