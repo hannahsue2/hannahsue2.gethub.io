@@ -16,7 +16,7 @@ h3 {
   color:teal;
   font-family:Impact, sans-serif;
   float: right;
-  margin-top:0;
+  margin: 0 0 10px 10px;
 }
 p {
   color: black;
